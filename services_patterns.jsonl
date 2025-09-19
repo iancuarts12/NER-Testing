@@ -1,0 +1,31 @@
+{"label":"SERVICES", "pattern":[{"LOWER":"toilet"},{"LOWER":"maintenance"}]}
+{"label":"SERVICES", "pattern":[{"LOWER":"sink"},{"LOWER":"and"},{"LOWER":"faucet"},{"LOWER":"maintenance"}]}
+{"label":"SERVICES", "pattern":[{"LOWER":"drain"},{"LOWER":"unclogging"}]}
+{"label":"SERVICES", "pattern":[{"LOWER":"shower"},{"LOWER":"maintenance"}]}
+{"label":"SERVICES", "pattern":[{"LOWER":"bathtub"},{"LOWER":"maintenance"}]}
+{"label":"SERVICES", "pattern":[{"LOWER":"pipe"},{"LOWER":"repair"}]}
+{"label":"SERVICES", "pattern":[{"LOWER":"water"},{"LOWER":"line"},{"LOWER":"maintenance"}]}
+{"label":"SERVICES", "pattern":[{"LOWER":"water"},{"LOWER":"heater"},{"LOWER":"maintenance"}]}
+{"label":"SERVICES", "pattern":[{"LOWER":"lighting"},{"LOWER":"maintenance"}]}
+{"label":"SERVICES", "pattern":[{"LOWER":"electrical"},{"LOWER":"wiring"},{"LOWER":"and"},{"LOWER":"rewiring"}]}
+{"label":"SERVICES", "pattern":[{"LOWER":"electrical"},{"LOWER":"wiring"}]}
+{"label":"SERVICES", "pattern":[{"LOWER":"electrical"},{"LOWER":"rewiring"}]}
+{"label":"SERVICES", "pattern":[{"LOWER":"electrical"},{"LOWER":"maintenance"}]}
+{"label":"SERVICES", "pattern":[{"LOWER":"washing"},{"LOWER":"machine"},{"LOWER":"maintenance"}]}
+{"label":"SERVICES", "pattern":[{"LOWER":"television"},{"LOWER":"maintenance"}]}
+{"label":"SERVICES", "pattern":[{"LOWER":"electric"},{"LOWER":"fan"},{"LOWER":"maintenance"}]}
+{"label":"SERVICES", "pattern":[{"LOWER":"rice"},{"LOWER":"cooker"},{"LOWER":"maintenance"}]}
+{"label":"SERVICES", "pattern":[{"LOWER":"microwave"},{"LOWER":"maintenance"}]}
+{"label":"SERVICES", "pattern":[{"LOWER":"electric"},{"LOWER":"stove"},{"LOWER":"maintenance"}]}
+{"label":"SERVICES", "pattern":[{"LOWER":"small"}, {"LOWER":"appliance"},{"LOWER":"maintenance"}]}
+{"label":"SERVICES", "pattern":[{"LOWER":"sofa"}, {"LOWER":"maintenance"}]}
+{"label":"SERVICES", "pattern":[{"LOWER":"wardrobe"}, {"LOWER":"maintenance"}]}
+{"label":"SERVICES", "pattern":[{"LOWER":"table"}, {"LOWER":"maintenance"}]}
+{"label":"SERVICES", "pattern":[{"LOWER":"sofa"}, {"LOWER":"maintenance"}]}
+{"label":"SERVICES", "pattern":[{"LOWER":"bed"}, {"LOWER":"maintenance"}]}
+{"label":"SERVICES", "pattern":[{"LOWER":"cabinet"}, {"LOWER":"maintenance"}]}
+{"label":"SERVICES", "pattern":[{"LOWER":"door"}, {"LOWER":"maintenance"}]}
+{"label":"SERVICES", "pattern":[{"LOWER":"general"},{"LOWER":"cleaning"}]}
+{"label":"SERVICES", "pattern":[{"LOWER":"deep"},{"LOWER":"cleaning"}]}
+{"label":"SERVICES", "pattern":[{"LOWER":"pest"},{"LOWER":"control"}]}
+{"label":"SERVICES", "pattern":[{"LOWER":"solar"},{"LOWER":"panel"},{"LOWER":"maintenance"}]}
