@@ -81,20 +81,6 @@ Socket Tester	SKILLS
 Childproof Outlet Installation	SKILLS
 Copper Sweating	SKILLS
 
-Home Electrical Inspection	SERVICE
-Voltage Testing	SKILLS
-Current Testing	SKILLS
-Testing Safety Switches	SKILLS
-Wiring Assessment	SKILLS
-Load Balancing	SKILLS
-
-Generator Maintenance 	SERVICE
-Load Testing	SKILLS
-Voltage Regulation	SKILLS
-Voltage Adjustment	SKILLS
-Frequency Adjustment	SKILLS
-Fuel System Assessment	SKILLS
-
 Appliance Maintenance	SPECIALIZATION
 Washing Machine Maintenance 	SERVICE
 Washing Machine Repair	SKILLS
@@ -119,23 +105,6 @@ Oscillation Mechanism Repair	SKILLS
 Speed Control Repair	SKILLS
 Bearing Replacement	SKILLS
 
-Rice Cooker Maintenance	SERVICE
-Heating Plate Replacement	SKILLS
-Heating Plate Cleaning	SKILLS
-Thermostat Repair	SKILLS
-Power Cord Repair	SKILLS
-Power Cord Replacement	SKILLS
-Control Panel Troubleshooting	SKILLS
-Steam Vent Cleaning 	SKILLS
-
-Microwave Maintenance	SERVICE
-Magnetron Replacement	SKILLS
-Door Latch Repair	SKILLS
-Door Seal Repair	SKILLS
-Turntable Motor Repair	SKILLS
-Fuse Replacement	SKILLS
-Capacitor Replacement	SKILLS
-
 Refrigerator Maintenance	SERVICE	
 Condenser Coil Cleaning	SKILLS
 Defrost System Maintenance	SKILLS
@@ -156,12 +125,6 @@ Frame Reinforcement	SKILLS
 Upholstery Cleaning 	SKILLS
 Spring Replacement	SKILLS
 Cushion Replacement	SKILLS
-
-Wardrobe Maintenance	SERVICE
-Hinge Adjustment	SKILLS
-Shelf  Replacement	SKILLS
-Shelf Alignment	SKILLS
-Sliding Track Repair	SKILLS
 
 Bed Maintenance	SERVICE
 Frame Tightening	SKILLS
@@ -185,16 +148,6 @@ Roller Repair	SKILLS
 Scratch Repair	SKILLS
 Dent Repair	SKILLS
 Automatic Door Mechanism	SKILLS
-
-Playpen Maintenance	SERVICE
-Wood Refinishing	SKILLS
-Tightening Joints	SKILLS
-Safety Checking	SKILLS
-
-Waterbed Maintenance 	SERVICE
-Mattress Maintenance	SKILLS
-Water Treatment	SKILLS
-Heater Maintenance	SKILLS
 
 House Keeping	SPECIALIZATION
 General Cleaning	SERVICE
