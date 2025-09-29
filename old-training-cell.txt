@@ -1,0 +1,205 @@
+import random
+import spacy
+from spacy.training import Example
+from spacy.util import minibatch
+import warnings
+
+# Filter out the alignment warnings for cleaner output
+warnings.filterwarnings('ignore', category=UserWarning, module='spacy')
+
+def improve_entity_annotations(text, entities):
+    """Improve entity annotations to match token boundaries"""
+    doc = nlp.make_doc(text)
+    improved_entities = []
+    
+    for start, end, label in entities:
+        # Find token boundaries that match the entity span
+        span = doc.char_span(start, end, label=label, alignment_mode='contract')
+        if span is not None:
+            improved_entities.append((span.start_char, span.end_char, label))
+        else:
+            # Try to find the closest token alignment
+            span = doc.char_span(start, end, label=label, alignment_mode='expand')
+            if span is not None:
+                improved_entities.append((span.start_char, span.end_char, label))
+    
+    return improved_entities
+
+train_data = [
+  #samples are here
+]
+
+ext_data = [
+ #extra samples are here
+]
+
+train_data.extend(ext_data)
+
+# Load the model
+nlp = spacy.load('en_core_web_lg')
+
+# Get the NER component
+ner = nlp.get_pipe('ner')
+
+# PRESERVE EXISTING ENTITIES - Only add your custom labels
+custom_labels = set()
+for text, annotations in train_data:
+    for start, end, label in annotations['entities']:
+        custom_labels.add(label)
+
+# Only add labels that don't exist in the base model
+existing_labels = set(ner.labels)
+for label in custom_labels:
+    if label not in existing_labels:
+        ner.add_label(label)
+        print(f"Added custom label: {label}")
+
+print(f"Base model labels: {sorted(existing_labels)}")
+print(f"Custom labels added: {sorted(custom_labels)}")
+print(f"Total labels: {sorted(ner.labels)}")
+
+# Improved training function with entity preservation
+def train_spacy_model(nlp, train_data, epochs=30):
+    # Disable other pipes during training
+    other_pipes = [pipe for pipe in nlp.pipe_names if pipe != 'ner']
+    
+    with nlp.disable_pipes(*other_pipes):
+        # Resume training with conservative settings
+        optimizer = nlp.resume_training()
+        
+        # Use a smaller learning rate to preserve existing knowledge
+        optimizer.learn_rate = 0.001  # Reduced learning rate
+        
+        for epoch in range(epochs):
+            random.shuffle(train_data)
+            losses = {}
+            
+            # Process in smaller batches
+            batches = minibatch(train_data, size=4)  # Smaller batch size
+            
+            for batch in batches:
+                examples = []
+                for text, annotations in batch:
+                    # Create example with proper alignment
+                    doc = nlp.make_doc(text)
+                    
+                    # Get entities detected by base model to preserve them
+                    base_doc = nlp(text)
+                    preserved_entities = []
+                    
+                    # Add base model entities (DATE, GPE, etc.)
+                    for ent in base_doc.ents:
+                        preserved_entities.append((ent.start_char, ent.end_char, ent.label_))
+                    
+                    # Add your custom training entities
+                    custom_entities = annotations['entities']
+                    
+                    # Merge entities, giving priority to custom annotations
+                    all_entities = custom_entities + preserved_entities
+                    
+                    # Remove overlaps (priority to custom annotations)
+                    final_entities = []
+                    for i, (start1, end1, label1) in enumerate(all_entities):
+                        overlap = False
+                        for j, (start2, end2, label2) in enumerate(all_entities):
+                            if i != j and not (end1 <= start2 or start1 >= end2):
+                                # If custom entity overlaps with base entity, keep custom
+                                if (start1, end1, label1) in custom_entities and (start2, end2, label2) in preserved_entities:
+                                    overlap = True
+                                    break
+                        if not overlap:
+                            final_entities.append((start1, end1, label1))
+                    
+                    example = Example.from_dict(doc, {'entities': final_entities})
+                    examples.append(example)
+                
+                # Update with very small drop rate to preserve existing patterns
+                nlp.update(examples, drop=0.1, losses=losses, sgd=optimizer)  # Reduced dropout
+            
+            if (epoch + 1) % 5 == 0:
+                print(f'Epoch {epoch + 1}, Loss: {losses.get("ner", 0):.4f}')
+    
+    return nlp
+
+# Alternative simpler approach (recommended)
+def train_spacy_model_simple(nlp, train_data, epochs=30):
+    """Simpler approach that better preserves base model entities"""
+    # Disable other pipes during training
+    other_pipes = [pipe for pipe in nlp.pipe_names if pipe != 'ner']
+    
+    with nlp.disable_pipes(*other_pipes):
+        optimizer = nlp.resume_training()
+        
+        # Very conservative learning rate
+        optimizer.learn_rate = 0.0001
+        
+        for epoch in range(epochs):
+            random.shuffle(train_data)
+            losses = {}
+            
+            batches = minibatch(train_data, size=8)
+            
+            for batch in batches:
+                examples = []
+                for text, annotations in batch:
+                    # Use the original annotations without merging
+                    doc = nlp.make_doc(text)
+                    example = Example.from_dict(doc, annotations)
+                    examples.append(example)
+                
+                # Very conservative training parameters
+                nlp.update(examples, drop=0.1, losses=losses, sgd=optimizer)
+            
+            if (epoch + 1) % 5 == 0:
+                print(f'Epoch {epoch + 1}, Loss: {losses.get("ner", 0):.4f}')
+    
+    return nlp
+
+# Train the model with the simple approach (recommended)
+print("Starting training with entity preservation...")
+trained_nlp = train_spacy_model_simple(nlp, train_data, epochs=30)
+
+# Save the model
+trained_nlp.to_disk('lg_combined_ner_model')
+
+# Test the improved model
+print("\n=== Testing Improved Model ===\n")
+
+test_texts = [
+    "Joanne installed a toilet in Makati on January 15, 2024.",
+    "I do Air conditioner repairs in Taguig from March 2023 to December 2025.",
+    "I am doing LED light installations in New York",
+    "Jose Manalo was once a plumber that commonly does drain unclogging in Manila.",
+    "Nicholas Andrei Yee is good in installing toilet since 2020",
+    "Adrian Cuarteros is a skilled electrician working until 2026",
+    "John Smith performed deep cleaning services in California",
+    "The plumber is currently performing sink maintenance until next week",
+    "Andrea Cuarteros worked as a electrician from November 2020 - November 2025 in Tokyo Japan"
+]
+
+improved_nlp = spacy.load('lg_combined_ner_model')
+
+for text in test_texts:
+    doc = improved_nlp(text)
+    entities = [(ent.text, ent.label_) for ent in doc.ents]
+    print(f'Text: {text}')
+    print(f'Entities: {entities}')
+    print()
+
+# Test specifically for DATE entities
+print("=== Testing DATE Entity Preservation ===")
+date_test_texts = [
+    "I worked from January 2020 to March 2025",
+    "Available starting next Monday",
+    "Service completed on 15th January 2024",
+    "From 2019 until 2023 in New York City"
+]
+
+for text in date_test_texts:
+    doc = improved_nlp(text)
+    dates = [(ent.text, ent.label_) for ent in doc.ents if ent.label_ == 'DATE']
+    other_entities = [(ent.text, ent.label_) for ent in doc.ents if ent.label_ != 'DATE']
+    print(f'Text: {text}')
+    print(f'Dates: {dates}')
+    print(f'Other entities: {other_entities}')
+    print()
