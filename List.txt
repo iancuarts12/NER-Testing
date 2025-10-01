@@ -1,0 +1,200 @@
+#Toilet Maintenance: 
+toilet_installation = Toilet Installation 
+toilet_repair = Toilet Repair
+leak_fixing = Leak Fixing
+toilet_unclogging = Toilet Unclogging
+flushing_system_repair = Flushing System Repair
+toilet_replacement = Toilet Replacement
+leak_fixing = Leak Fixing
+
+#Sink and Faucet Maintenance: 
+faucet_installation = Faucet Installation
+faucet_repair = Faucet Repair
+sink_installation = Sink Installation 
+sink_repair = Sink Repair
+leak_fixing = Leak Fixing
+faucet_replacement = Faucet Replacement
+sink_replacement = Sink Replacement
+drain_repair = Drain Repair
+leak_detection = Leak Detection
+pipe_replacement = Pipe Replacement
+
+#Drain Unclogging:
+drain_cleaning = Drain Cleaning
+drain_snaking = Drain Snaking
+hydro_jetting = Hydro Jetting
+clog_removal = Clog Removal
+pipe_inspection = Pipe Inspection
+leak_fixing = Leak Fixing
+drain_repair = Drain Repair
+
+#Shower Maintenance:
+showerhead_installation = Showerhead Installation
+showerhead_repair = Showerhead Repair
+leak_fixing = Leak Fixing
+valve_replacement = Valve Replacement
+shower_pipe_repair = Shower pipe repair
+drain_repair = Drain Repair
+leak_detection = Leak Detection
+
+#Bathtub Maintenance:
+bathtub_installation = Bathtub Installation
+bathtub_repair = Bathtub Repair
+leak_fixing = Leak Fixing
+drain_repair = Drain Repair
+fixture_replacement = Fixture Replacement
+caulking_and_sealing = Caulking and Sealing
+leak_detection = Leak Detection
+
+#Pipe Repair:
+leak_detection = Leak Detection
+pipe_cutting = Pipe Cutting
+pipe_fitting = Pipe Fitting
+pipe_replacement  = Pipe Replacement
+pipe_welding = Pipe Welding
+joint_sealing = Joint Sealing
+
+#Water Line Maintenance:
+water_line_installation = Water Line Installation
+pipe_fitting = Pipe Fitting
+pipe_connection = Pipe Connection 
+water_line_repair = Water Line Repair
+pressure_testing = Pressure Testing
+leak_detection = Leak Detection
+leak_fixing = Leak Fixing
+pipe_replacement = Pipe Replacement
+joint_sealing = Joint Sealing
+
+#Water Heater Maintenance: 
+sediment_flushing = Sediment Flushing
+thermostat_adjustment = Thermostat Adjustment
+leak_detection = Leak Detection
+leak_fixing = Leak Fixing
+pipe_connection = Pipe Connection 
+pipe_replacement = Pipe Replacement
+water_line_installation = Water Line Installation
+water_line_repair = Water Line Repair
+
+#General Cleaning: 
+sweeping_floors = Sweeping Floors
+mopping_floors = Mopping Floors
+surface_wiping = Surface Wiping
+vacuuming_carpet = Vacuuming Carpet
+organizing = Organizing 
+decluttering = Decluttering
+
+#Deep Cleaning:
+tile_scrubbing = Tile Scrubbing
+steam_cleaning = Steam Cleaning 
+stain_removal = Stain Removal 
+upholstery_deep_cleaning = Upholstery Deep Cleaning
+mattress_sanitizing = Mattress Sanitizing
+vacuuming_carpet = Vacuuming Carpet
+
+#Laundry:
+clothes_sorting = Clothes Sorting
+hand_washing = Hand Washing
+hand_washing_delicates = Hand Washing Delicates
+ironing = Ironing
+stain_removal = Stain Removal 
+
+#Ligthing Maintenance: 
+incandescent_light_installation = Incandescent Light Installation
+fluorescent_light_installation = Fluorescent Light Installation
+led_light_installtion = LED Light Installation
+bulb_replacement = Bulb Replacement
+light_fixture_installment = Light Fixture Installment
+wire_installation = Wire Installation
+circuit_connection = Circuit Connection
+
+#Electrical Wiring and Rewiring:
+wire_installation = Wire Installation
+conduit_installation = Conduit Installation 
+electrical_insulation = Electrical Insulation
+curcuit_connection = Circuit Connection
+
+#Socket Maintenance:
+socket_installation = Socket Installation
+socket_replacement = Socket Replacement
+socket_tester = Socket Tester
+childproof_outlet_installation = Childproof Outlet Installation
+copper_sweating = Copper Sweating
+
+#Washing Machine Maintenance:
+washing_machine_repair = Washing Machine Repair
+belt_replacement = Belt Replacement
+leak_tracking = Leak Tracking
+drum_cleaning = Drum Cleaning
+hose_replacement = Hose Replacement
+
+#Television Maintenance:
+screen_replacement = Screen Replacement
+screen_repair = Screen Repair
+remote_sensor_repair = Remote Sensor Repair
+power_supply_board_repair = Power Supply Board Repair
+backlight_replacement = Backlight Replacement
+backlight_repair = Backlight Repair
+control_panel_troubleshooting = Control Panel Troubleshooting
+capacitor_replacement = Capacitor Replacement
+fuse_replacement = Fuse Replacement
+
+#Electric Fan Maintenance:
+motor_cleaning = Motor Cleaning 
+motor_lubrication = Motor Lubrication
+blade_replacement = Blade Replacement 
+oscillation_mechanism_repair = Oscillation Mechanism Repair
+speed_control_repair = Speed Control Repair
+bearing_replacement = Bearing Replacement
+capacitor_replacement = Capacitor Replacement
+fuse_replacement = Fuse Replacement
+
+#Refigerator Maintenance:
+condenser_coil_cleaning = Condenser Coil Cleaning
+defrost_system_maintenance = Defrost System Maintenance
+thermostat_control_check = Thermostat Control Check
+ice_maker_repair = Ice Maker Repair
+coil_cleaning = Coil Cleaning
+
+#Air Conditioner Maintenance:
+air_conditioner_repair = Air Conditioner Repair
+air_conditioner_installation = Air Conditioner Installation
+coil_cleaning = Coil Cleaning
+filter_cleaning = Filter Cleaning
+system_tune_up = System Tune-up
+
+#Sofa Maintenance: 
+cushion_repair = Cushion Repair
+frame_reinforcement = Frame Reinforcement
+upholstery_cleaning = Upholstery Cleaning 
+spring_replacement = Spring Replacement
+cushion_replacement = Cushion Replacement
+frame_tightening = Frame Tightening
+
+#Bed Maintenance:
+frame_tightening = Frame Tightening
+slat_replacement = Slat Replacement
+mattress_rotation = Mattress Rotation
+headboard_repair = Headboard Repair 
+frame_reinforcement = Frame Reinforcement
+
+#Cabinet Maintenance:
+lock_replacement = Lock Replacement
+handle_replacement = Handle Replacement
+cabinet_refacing = Cabinet Refacing
+cabinet_repair = Cabinet Repair
+hinge_adjustment = Hinge Adjustment
+door_repair = Door Repair
+
+#Door Maintenance:
+hinge_replacement = Hinge Replacement
+door_alignment = Door Alignment
+door_repair = Door Repair
+weather_stripping_installation = Weather Stripping Installation
+sliding_track_repair = Sliding Track Repair
+roller_repair = Roller Repair
+scratch_repair = Scratch Repair
+dent_repair = Dent Repair
+automatic_door_mechanism = Automatic Door Mechanism
+hinger_adjustment = Hinge Adjustment
+
+

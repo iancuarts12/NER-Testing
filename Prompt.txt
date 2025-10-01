@@ -1,0 +1,330 @@
+Prompt: 
+SERVICE:
+(TOILET MAINTENANCE, SINK AND FAUCET MAINTENANCE, DRAIN UNCLOGGING, SHOWER MAINTENANCE, BATHTUB MAINTENANCE, PIPE REPAIR, WATER LINE MAINTENANCE, WATER HEATER MAINTENANCE, GENERAL CLEANING, DEEP CLEANING, LAUNDRY, LIGHTING MAINTENANCE, ELECTRICAL WIRING AND REWIRING, SOCKET MAINTENANCE, WASHING MACHINE MAINTENANCE, TELEVISION MAINTENANCE, ELECTRIC FAN MAINTENANCE, REFRIGERATOR MAINTENANCE, AIR CONDITIONER MAINTENANCE, SOFA MAINTENANCE, BED MAINTENANCE, CABINET MAINTENANCE, DOOR MAINTENANCE) regardless of capitalization
+
+SPECIALIZATION:
+(PLUMBING, PLUMBER, ELECTRICAL, ELECTRICIAN, APPLIANCE MAINTENANCE, FURNITURE MAINTENANCE, HOUSEKEEPING, HOUSE KEEPING) regardless of the capitalization
+Of course. I can analyze your entity list to identify potential issues with the indexing, such as patterns
+
+can you fix the indexing of entities, show me which fields or which sentences are tracked wrong
+
+here's a reference for you:
+
+SKILL:
+
+Toilet Maintenance:
+-toilet installation, toilet installations, installation of toilet, installation of toilets, installing of toilet, installing of toilets, installing toilet, installing toilets, installed a toilet, installed a toilets, installed toilet, installed toilets
+
+-toilet repair, toilet repairs, repairing toilet, repairing toilets, repairing of toilet, repairing of toilets, repaired toilet, repaired toilets, repaired a toilet, repaired a toilets
+
+-leak fixing, fixing leak, fixing leaks, fixing of leak, fixing of leaks, fixed a leak, fixed a leaks, fixed leak, fixed leaks
+
+-toilet unclogging, toilet uncloggings, unclogging toilet, unclogging toilets, unclogging of toilet, unclogging of toilets, unclogged toilet, unclogged toilets, unclogged a toilet, unclogged a toilets
+
+-flushing system repair, flushing systems repair, repairing flushing system, repairing flushing systems, repairing of flushing system, repairing of flushing systems, repaired flushing system, repaired flushing systems, repaired a flushing system, repaired a flushing systems
+
+-toilet replacement, toilet replacements, replacing toilet, replacing toilets, replacing of toilet, replacing of toilets, replaced toilet, replaced toilet, replaced a toilet, replaced a toilets
+
+************************************************************************
+
+Faucet and Sink Maintenance:
+
+-faucet installation, faucet installation, installing faucet, installing faucets, installing of faucet, installing of faucets, installation of faucet, installation of faucets, installed a faucet, installed a faucets, installed faucet, installed faucets
+
+-faucet repair, faucet repairs, repairing faucet, repairing faucets, repairing of faucet, repairing of faucets, repaired a faucet, repaired a faucets, repaired faucet, repaired faucets,
+
+-faucet replacement, faucet replacements, replacing faucet, replacing faucets, replacing of faucet, replacing of faucets, replaced faucet, replaced faucets, replaced a faucet, replaced a faucets
+
+-sink installation, sink installations, installing sink, installing sinks, installing of sink, installing of sinks, installation of sink, installation of sinks, installed a sink, installed a sinks, installed sink, installed sinks
+
+-sink replacement, sink replacements, replacing sink, replacing sinks, replacement of sink, replacement of sinks, replacing of sink, replacing of sinks, replaced a sink, replaced a sinks, replaced sink, replaced sinks
+
+-sink unclogging, unclogging sink, unclogging sinks, unclogging of sink, unclogging of sinks, unclogged a sink, unclogged a sink, unclogged sink, unclogged sinks
+
+************************************************************************
+
+Drain Unclogging:
+
+-drain cleaning, drain cleanings, cleaning drain, cleaning drains, cleaning of drain, cleaning of drains, cleaned a drain, cleaned a drains, cleaned drain, cleaned drains
+
+-drain snaking, drain snakings, snaking drain, snaking drains, snaking of drain, snaking of drains, snaked a drain, snaked a drains, snaked drain, snaked drains, drain repair
+
+-hydro jetting
+
+-clog removal, removal of clog, removal of clogs, removing clog, removing clogs, removing of clog, removing of clogs, removed a clog, removed a clogs, removed clog, removed clogs
+
+************************************************************************
+
+Shower Maintenance:
+
+-showerhead installation, showerhead installations, installation of showerhead, installation of showerheads, installing of showerhead, installing of showerheads, installing showerhead, installing showerheads, installed showerhead, installed showerheads, installed a showerhead, installed a showerheads
+
+-showerhead repair, showerhead repairs, repairing showerhead, repairing showerheads, repairing of showerhead, repairing of showerheads, repaired a showerhead, repaired a showerheads, repaired showerhead, repaired showerheads
+
+-valve replacement, valve replacements, replacing valve, replacing valves, replacing of valve, replacing of valves, replacement of valve, replacement of valves, replaced a valve, replaced a valves, replaced valve, replaced valves, shower pipe repair, shower pipe repairs, repairing shower pipe, repairing shower pipes, repairing of shower pipe, repairing of shower pipes, repaired a shower pipe, repaired a shower pipes, repaired shower pipe, repaired shower pipes
+
+-shower pipe repair, shower pipe repairs, repairing shower pipe, repairing shower pipes, repairing of shower pipe, repairing of shower pipes, repaired a shower pipe, repaired a shower pipes, repaired shower pipe, repaired shower pipes
+
+************************************************************************
+
+Bathtub Maintenance:
+-bathtub installation, bathtub installations, installing bathtub, installing bathtubs, installation of bathtub, installation of bathtubs, installing of bathtub, installing of bathtubs
+
+-bathtub repair, bathtub repairs, repairing bathtub, repairing bathtubs, repairing of bathtub, repairing of bathtubs, repaired a bathtub, repaired a bathtubs, repaired bathtub, repaired bathtubs
+
+-fixture replacement, fixture replacements, replacing fixture, replacing fixtures, replacing of fixture, replacing of fixtures, replacement of fixture, replacement of fixtures, replaced a fixture, replaced a fixtures, replaced fixture, replaced fixtures
+
+-caulking and sealing, sealing and caulking, caulking of gap, caulking of gaps, caulked a gap, caulked a gaps, caulked gap, caulked gaps, gap caulking, sealing of gap, sealing of gaps, sealed a gap, sealed a gaps, sealed gap, sealed gaps, gap sealing
+
+-drain repairs, repairing drain, repairing drains, repairing of drain, repairing of drains, repaired a drain, repaired a drains, repaired drain, repaired drains
+
+************************************************************************
+
+Pipe Repair:
+
+-leak detection, leak detections, detection of leak, detection of leaks, detecting of leak, detecting of leaks, detecting leak, detecting leaks, detected a leak, detected a leaks, detected leak, detected leaks
+
+-pipe cutting, cutting pipe, cutting pipes, cutting of pipe, cutting of pipes, cut a pipe, cut a pipes, cut pipe, cut pipes
+
+-pipe fitting, pipe fittings, fitting pipe, fitting pipes, fitting of pipe, fitting of pipes, fitted a pipe, fitted a pipes, fitted pipe, fitted pipes, pipe replacement, pipe replacements
+
+-replacing pipe, replacing pipes, replacing of pipe, replacing of pipes, replacement of pipe, replacement of pipes, replaced a pipe, replaced a pipes, replaced pipe, replaced pipes
+
+-pipe welding, pipe weldings, welding pipe, welding pipes, welding of pipe, welding of pipes, welded a pipe, welded a pipes, welded pipe, welded pipes
+
+-joint sealing, joint sealings, sealing joint, sealing joints, sealing of joint, sealing of joints, sealed a joint, sealed a joints, sealed joint, sealed joints
+
+************************************************************************
+
+Water Line Maintenance:
+
+-water line installation, water line installations, installation of water line, installation of water lines, installing of water line, installing of water lines, installed a water line, installed a water lines, installed water line, installed water lines
+
+-pipe fitting, pipe fittings, fitting pipe, fitting pipes, fitting of pipe, fitting of pipes, fitted a pipe, fitted a pipes, fitted pipe, fitted pipes, pipe replacement, pipe replacements
+
+-pipe connection, pipe connections, connecting pipe, connecting pipes, connecting of pipe, connecting of pipes, connection of pipe, connection of pipes, connected a pipe, connected a pipes, connected pipe, connected pipes
+
+-water line repair, water line repairs, repairing water line, repairing water lines, repairing of water line, repairing of water lines, repaired a water line, repaired a water lines, repaired water line, repaired water lines
+
+-pressure testing, pressure testings, pressure tester, pressure testers, pressure test, pressure tests, testing of water pressure, testing of water pressures, tested a water pressure, tested a water pressures, water pressure testing, water pressure testings, water pressure tester, water pressure testers, testing of pressure, testing of pressures, testing pressure, testing pressures, tested pressure, tested pressures
+
+************************************************************************
+
+Water Heater Maintenance:
+
+-sediment flushing, sediment flusher, sediment flushers, flushing sediment, flushing sediments, flushing of sediment, flushing of sediments, flushed a sediment, flushed a sediments, flushed sediment, flushed sediments
+
+-thermostat adjustment, thermostat adjustments, adjusting thermostat, adjusting thermostats, adjusting of thermostat, adjusting of thermostats, adjusted a thermostat, adjusted a thermostats, adjusted thermostat, adjusted thermostats
+
+************************************************************************
+
+Lighting Maintenance:
+
+-incandescent light installation, incandescent light installations, installation of incandescent light, installation of incandescent lights, installing incandescent light, installing incandescent lights, installing of incandescent light, installing of incandescent lights, installed a incandescent light, installed a incandescent lights, installed incandescent light, installed incandescent lights
+
+-fluorescent light installation, fluorescent light installations, installation of fluorescent light, installation of fluorescent lights, installing fluorescent light, installing fluorescent lights, installing of fluorescent light, installing of fluorescent lights, installed a fluorescent light, installed a fluorescent lights, installed fluorescent light, installed fluorescent lights
+
+-led light installation, led light installations, installation of led light, installation of led lights, installing of led light, installing of led lights, installing led light, installing led lights, installed led light, installed led lights, installed a led light, installed a led lights
+
+-bulb replacement, bulb replacements, replacing bulb, replacing bulbs, replacing of bulb, replacing of bulbs, replacement of bulb, replacement of bulbs, replaced a bulb, replaced a bulbs, replaced bulb, replaced bulbs
+
+-light fixture installation, light fixture installations, installation of light fixture, installation of light fixtures, installing of light fixture, installing of light fixtures, installing light fixture, installing light fixtures, installed light fixture, installed light fixtures , installed a light fixture
+
+************************************************************************
+
+Electrical Wiring and Rewiring
+
+-wire installation, wire installations, installation of wire, installation of wires, installing of wire, installing of wires, installing wire, installing wires, installed wire, installed wires, installed a wire, installed a wires
+
+-conduit installation, conduit installations, installation of conduit, installation of conduits, installing of conduit, installing of conduits, installing conduit, installing conduits, installed conduit, installed conduits, installed a conduit, installed a conduits
+
+-electrical insulation, insulation of electrical wiring, insulation of electrical wirings, insulating electrical wiring, insulating electrical wirings, insulating of electrical wiring, insulating of electrical wirings, insulated a electrical wiring, insulated a electrical wirings, insulated electrical wiring, insulated electrical wirings
+
+-circuit connection, circuit connections, connecting circuit, connecting circuits, connecting of circuit, connecting of circuits, connection of circuit, connection of circuits, connected a circuit, connected a circuits, connected circuit, connected circuits
+
+************************************************************************
+
+Washing Machine Maintenance:
+
+-washing machine repair, washing machine repairs, repairing washing machine, repairing washing machines, repaired washing machines, repaired a washing machine, repaired a washing machines, repairing washing machines, repairing of washing machine, repairing of washing machines
+
+-belt replacement, belt replacements, replacement of belt, replacement of belts, replacement of washing machine belt, replacement of washing machine belts, replacing washing machine belt, replacing washing machine belts, replacing of washing machine belt, replacing of washing machine belts, replacing belt, replacing belts, replacing of belt, replacing of belts, replaced a washing machine belt, replaced a washing machine belts, replaced washing machine belt, replaced washing machine belts
+
+-drum cleaning, cleaning drum, cleaning drums, cleaned drum, cleaned drums, cleaned washing machine drum, cleaned washing machine drums, cleaned a washing machine drum, cleaned a washing machine drums, washing machine drum cleaning, cleaning of washing machine drum, cleaning of washing machine drums, cleaning of drum, cleaning of drums, cleaned a drum, cleaned a drums
+
+-hose replacement, hose replacements, replacing hose, replacing hoses, replacing of hose, replacing of hoses, replacing of washing machine hose, replacing of washing machine hoses, replacement of washing machine hose, replacement of washing machine hoses, replacement of hose, replacement of hoses
+
+-washing machine hose installation, washing machine hose installations, installation of washing machine hose, installation of washing machine hoses, installment of washing machine hose, installment of washing machine hoses, installing washing machine hose, installing washing machine hoses, installed washing machine hose, installed washing machine hoses, installed a washing machine hose, installed a washing machine hoses
+
+************************************************************************
+
+Television Maintenance:
+
+-screen replacement, screen replacements, replacing screen, replacing screens, replacing of screen, replacing of screens, replaced a screen, replaced a screens, replaced screen, replaced screens, replacement of screen, replacement of screens
+
+-screen repair, screen repairing, repairing screen, repairing screens, repairing of screen, repairing of screens, repaired a screen, repaired a screens, repaired screen, repaired screens
+
+-remote sensor repair, remote sensor repairs, remote sensor repairing, repairing remote sensor, repairing remote sensors, repairing of remote sensor, repairing of remote sensors, repaired a remote sensor, repaired a remote sensors, repaired remote sensor, repaired remote sensors
+
+-power supply board repair, power supply board repairs, power supply board repairing, repairing power supply board, repairing power supply boards, repairing of power supply board, repairing of power supply boards, repaired a power supply board, repaired a power supply boards, repaired power supply board, repaired power supply boards
+
+-control panel troubleshooting, troubleshooting control panel, troubleshooting control panels, troubleshooting of control panel, troubleshooting of control panels, troubleshoot control panel, troubleshoot control panels, troubleshot control panel, troubleshot control panels, troubleshot a control panel, troubleshot a control panels
+
+-backlight replacement, backlight replacements, replacing backlight, replacing backlights, replacing of backlight, replacing of backlights, replaced a backlight, replaced a backlights, replaced backlight, replaced backlights, replacement of backlight, replacement of backlights
+
+-backlight repair, backlight repairs, repairing backlight, repairing backlights, repairing of backlight, repairing of backlights, repaired a backlight, repaired a backlights, repaired backlight, repaired backlights
+
+************************************************************************
+
+Electric Fan Maintenance:
+
+-motor cleaning, cleaning motor, cleaning motors, cleaned motor, cleaned motors, cleaned a motor, cleaned a motors, cleaning of motor, cleaning of motors
+
+-motor lubrication, lubrication of motor, lubrication of motors, lubricated motor, lubricated motors, lubricated a motor, lubricated a motors
+
+-blade replacement, blade replacements, replacing blade, replacing blades, replacing of blade, replacing of blades, replaced a blade, replaced a blades, replaced blade, replaced blades, replacement of blade, replacement of blades
+
+-oscillation mechanism repair, oscillation mechanism repairs, repairing oscillation mechanism, repairing oscillation mechanisms, repairing of oscillation mechanism, repairing of oscillation mechanisms, repaired a oscillation mechanism, repaired a oscillation mechanisms, repaired oscillation mechanism, repaired oscillation mechanisms
+
+-speed control repair, speed control repairs, speed controller repair, speed controller repairs, repairing speed control, repairing speed controls, repairing speed controller, repairing speed controllers, repairing of speed control, repairing of speed controls, repairing of speed controller, repairing of speed controllers, repaired a speed control, repaired a speed controls, repaired a speed controller, repaired a speed controllers, repaired speed control, repaired speed controls, repaired speed controller, repaired speed controllers
+
+-bearing replacement, bearing replacements, replacing bearing, replacing bearings, replacing of bearing, replacing of bearings, replaced a bearing, replaced a bearings, replaced bearing, replaced bearings, replacement of bearing, replacement of bearings
+
+************************************************************************
+
+Refrigerator Maintenance:
+
+-condenser coil cleaning, cleaning condenser coil, cleaning condenser coils, cleaned condenser coil, cleaned condenser coils, cleaned refrigerator condenser coil, cleaned refrigerator condenser coils, cleaned a refrigerator condenser coil, cleaned a refrigerator condenser coils, cleaning of refrigerator condenser coil, cleaning of refrigerator condenser coils
+
+-defrost system maintenance, maintenance of defrost system, maintenance of defrost systems, maintaining defrost system, maintaining defrost systems, maintaining of defrost system, maintaining of defrost systems, maintained defrost system, maintained defrost systems, maintained a defrost system, maintained a defrost systems
+
+-thermostat control checking, checking thermostat control, checking thermostat controls, checking of thermostat control, checking of thermostat controls, checked a thermostat control, checked a thermostat controls, checked thermostat control, checked thermostat controls
+
+-ice maker repair, ice maker repairs, repairing ice maker, repairing ice makers, repairing of ice maker, repairing of ice makers, repaired a ice maker, repaired a ice makers, repaired ice maker, repaired ice makers
+
+************************************************************************
+
+Air Conditioner Maintenance:
+
+-air conditioner repair, air conditioner repairs, repairs air conditioner, repairs air conditioners, repairs a air conditioner, repairs a air conditioners, repairing air conditioner, repairing air conditioners, repairing of air conditioner, repairing of air conditioners, repaired a air conditioner, repaired a air conditioners, repaired air conditioner, repaired air conditioners
+
+-air conditioner installation, air conditioner installations, installing air conditioner, installing air conditioners, installing of air conditioner, installing of air conditioners, installation of air conditioner, installation of air conditioners, installed a air conditioner, installed a air conditioners, installed air conditioner, installed air conditioners
+
+-coil cleaning, air conditioning coil cleaning, cleaning coil, cleaning coils, cleaned coil, cleaned coils, cleaned air conditioning coil, cleaned air conditioning coils, cleaned a air conditioning coil, cleaned a air conditioning coils, cleaning of air conditioning coil, cleaning of air conditioning coils, air conditioner coil cleaning, cleaned air conditioner coil, cleaned air conditioner coils, cleaned a air conditioner coil, cleaned a air conditioner coils, cleaning of air conditioner coil, cleaning of air conditioner coils
+
+-filter cleaning, air conditioner filter cleaning, cleaning filter, cleaning filters, cleaned filter, cleaned filters, cleaned air conditioner filter, cleaned air conditioner filters, cleaned a air conditioner filter, cleaning of air conditioner filter
+
+************************************************************************
+
+Sofa Maintenance:
+
+-cushion replacement, cushion replacements, replacing cushion, replacing cushions, replacing of cushion, replacing of cushions, replacing of furniture cushion, replacing of furniture cushions
+
+-cushion repair, cushion repairs, repairing cushion, repairing cushions, repairing of cushion, repairing of cushions, repaired a cushion, repaired a cushions, repaired cushions
+
+-frame reinforcement, frame reinforcements, reinforcing frame, reinforcing frames, reinforcing of frame, reinforcing of frames, reinforced a frame, reinforced a frames, reinforced frame, reinforced frames
+
+-upholstery cleaning, upholsteries cleaning, cleaning upholstery, cleaning upholsteries, cleaning of upholstery, cleaning of upholsteries, cleaned a upholstery, cleaned a upholsteries, cleaned upholstery, cleaned upholsteries
+
+-spring replacement, spring replacements, sofa spring replacement, sofa spring replacements, replacing spring, replacing springs, replacing sofa spring, replacing sofa springs, replacing of spring, replacing of springs, replacing of sofa spring, replacing of sofa springs, replaced a spring, replaced a springs, replaced a sofa spring, replaced a sofa springs, replaced spring, replaced springs, replaced sofa spring, replaced sofa springs
+
+************************************************************************
+
+Bed Maintenance:
+
+-frame tightening, bed frame tightening, tightening frame, tightening frames, tightening bed frame, tightening bed frames, tightening of frame, tightening of frames, tightening of bed frame, tightening of bed frames, tightened a frame, tightened a frames, tightened a bed frame, tightened a bed frames, tightened frame, tightened frames, tightened bed frame, tightened bed frames
+
+-slat replacement, slat replacements, bed slat replacement, bed slat replacements, replacing slat, replacing slats, replacing bed slat, replacing bed slats, replacing of slat, replacing of slats, replacing of bed slat, replacing of bed slats, replaced a slat, replaced a slats, replaced a bed slat, replaced a bed slats, replaced slat, replaced slats, replaced bed slat, replaced bed slats
+
+-mattress rotation, mattress rotations, bed mattress rotation, bed mattress rotations, rotation mattress, rotation mattresses, rotation bed mattress, rotation bed mattresses, rotation of mattress, rotation of mattresses, rotation of bed mattress, rotation of bed mattresses, rotated a mattress, rotated a mattresses, rotated a bed mattress, rotated a bed mattresses, rotated mattress, rotated mattresses, rotated bed mattress, rotated bed mattresses
+
+-headboard repair, headboard repairs, bed headboard repair, bed headboard repairs, repairing headboard, repairing headboards, repairing bed headboard, repairing bed headboards, repairing of headboard, repairing of headboards, repairing of bed headboard, repairing of bed headboards, repaired a headboard, repaired a headboards, repaired a bed headboard, repaired a bed headboards, repaired headboard, repaired headboards, repaired bed headboard, repaired bed headboards
+
+************************************************************************
+
+Cabinet Maintenance:
+
+-lock replacement, lock replacements, cabinet lock replacement, cabinet lock replacements, replacing lock, replacing locks, replacing cabinet lock, replacing cabinet locks, replacing of lock, replacing of locks, replacing of cabinet lock, replacing of cabinet locks, replaced a lock, replaced a locks, replaced a cabinet lock, replaced a cabinet locks, replaced lock, replaced locks, replaced cabinet lock, replaced cabinet locks
+
+-handle replacement, handle replacements, cabinet handle replacement, cabinet handle replacements, replacing handle, replacing handles, replacing cabinet handle, replacing cabinet handles, replacing of handle, replacing of handles, replacing of cabinet handle, replacing of cabinet handles, replaced a handle, replaced a handles, replaced a cabinet handle, replaced a cabinet handles, replaced handle, replaced handles, replaced cabinet handle, replaced cabinet handles
+
+-cabinet refacing, cabinet refacings, refacing cabinet, refacing cabinets, refacing of cabinet, refacing of cabinets, refaced a cabinet, refaced a cabinets, refaced cabinet, refaced cabinets
+
+-cabinet repair, cabinet repairs, repairing cabinet, repairing cabinets, repairing of cabinet, repairing of cabinets, repaired a cabinet, repaired a cabinets, repaired cabinet, repaired cabinets
+
+-hinge replacement, hinge replacements, cabinet hinge replacement, cabinet hinge replacements, replacing hinge, replacing hinges, replacing cabinet hinge, replacing cabinet hinges, replacing of hinge, replacing of hinges, replacing of cabinet hinge, replacing of cabinet hinges, replaced a hinge, replaced a hinges, replaced a cabinet hinge, replaced a cabinet hinges, replaced hinge, replaced hinges, replaced cabinet hinge, replaced cabinet hinges
+
+************************************************************************
+
+Door Maintenance:
+
+-door alignment, door alignments, aligning door, aligning doors, aligning of door, aligning of doors, aligned a door, aligned a doors, aligned door, aligned doors
+
+-door repair, door repairs, repairing door, repairing doors, repairing of door, repairing of doors, repaired a door, repaired a doors, repaired door, repaired doors
+
+-weather stripping installation, weather stripping installations, installing weather stripping, installing weather strippings, installing of weather stripping, installing of weather strippings, installed a weather stripping, installed a weather strippings, installed weather stripping, installed weather strippings
+
+-roller repair, roller repairs, roller track repair, roller track repairs, repairing roller, repairing rollers, repairing roller track, repairing roller tracks, repairing of roller, repairing of rollers, repairing of roller track, repairing of roller tracks, repaired a roller, repaired a rollers, repaired a roller track, repaired a roller tracks, repaired roller, repaired rollers, repaired roller track, repaired roller tracks.
+
+-scratch repair, scratch repairs, repairing scratch, repairing scratches, repairing of scratch, repairing of scratches, repaired a scratch, repaired a scratches, repaired scratch, repaired scratches.
+
+-dent repair, dent repairs, repairing dent, repairing dents, repairing of dent, repairing of dents, repaired a dent, repaired a dents, repaired dent, repaired dents.
+
+-automatic door mechanism, automatic door mechanisms, installing automatic door mechanism, installing automatic door mechanisms, installing of automatic door mechanism, installing of automatic door mechanisms, installed a automatic door mechanism, installed a automatic door mechanisms, installed automatic door mechanism, installed automatic door mechanisms.
+
+-hinge adjustment, hinge adjustments, adjusting hinge, adjusting hinges, adjusting of hinge, adjusting of hinges, adjusted a hinge, adjusted a hinges, adjusted hinge, adjusted hinges
+
+************************************************************************
+
+General Cleaning:
+
+-sweeping floor, sweeping floors, sweeping of floor, sweeping of floors, swept a floor, swept a floors, swept floor, swept floors, floor sweeping, floor sweepings
+
+-mopping floor, mopping floors, mopping of floors, mopped a floor, mopped a floors, mopped floor, mopped floors, floor mopping, floor moppings
+
+-surface wiping, surface wipings, wiping surface, wiping surfaces, wiping of surface, wiping of surfaces, wiped a surface, wiped a surfaces, wiped surface, wiped surfaces
+
+-vacuuming carpet, vacuuming carpets, vacuuming of carpet, vacuuming of carpets, vacuumed a carpet, vacuumed a carpets, vacuumed carpet, vacuumed carpets, carpet vacuuming, carpet vacuumings
+
+-organizing, organizing of, organized a, organized
+
+-decluttering, decluttering of, decluttered a, decluttered
+
+************************************************************************
+
+Deep Cleaning:
+
+-tile scrubbing, tile scrubbings, scrubbing tile, scrubbing tiles, scrubbing of tile, scrubbing of tiles, scrubbed a tile, scrubbed a tiles, scrubbed tile, scrubbed tiles
+
+-steam cleaning, cleaning with steam, cleaning by steam, steam cleaned a, steam cleaned
+
+-stain removal, stain removals, removing stain, removing stains, removing of stain, removing of stains, removed a stain, removed a stains, removed stain, removed stains
+
+-upholstery deep cleaning, upholstery deep cleanings, deep cleaning upholstery, deep cleaning upholsteries, deep cleaning of upholstery, deep cleaning of upholsteries, deep cleaned a upholstery, deep cleaned a upholsteries, deep cleaned upholstery, deep cleaned upholsteries,
+
+-mattress sanitizing, mattress sanitizings, sanitizing mattress, sanitizing mattresses, sanitizing of mattress, sanitizing of mattresses, sanitized a mattress, sanitized a mattresses, sanitized mattress, sanitized mattresses
+
+-vacuuming carpet, vacuuming carpets, vacuuming of carpet, vacuuming of carpets, vacuumed a carpet, vacuumed a carpets, vacuumed carpet, vacuumed carpets, carpet vacuuming, carpet vacuumings
+
+************************************************************************
+
+Laundry:
+
+-clothes sorting, clothes sortings, sorting cloth, sorting clothes, sorting of clothes, sorted a cloth, sorted a clothes, sorted cloth, sorted clothes.
+
+-hand washing, washing by hand, washing of clothes by hand, hand washed, hand washed a, hand washed clothes
+
+-hand washing delicates, hand washing delicate, washing delicates by hand, washing a delicate by hand, hand washed a delicate, hand washed delicates, hand washed delicate
+
+-ironing, ironing of cloth, ironing of clothes, ironed a cloth, ironed a clothes, ironed cloth, ironed clothes
+
+-stain removal, stain removals, removing stain, removing stains, removing of stain, removing of stains, removed a stain, removed a stains, removed stain, removed stains
+
+
+SERVICE:
+(TOILET MAINTENANCE, SINK AND FAUCET MAINTENANCE, DRAIN UNCLOGGING, SHOWER MAINTENANCE, BATHTUB MAINTENANCE, PIPE REPAIR, WATER LINE MAINTENANCE, WATER HEATER MAINTENANCE, GENERAL CLEANING, DEEP CLEANING, LAUNDRY, LIGHTING MAINTENANCE, ELECTRICAL WIRING AND REWIRING, SOCKET MAINTENANCE, WASHING MACHINE MAINTENANCE, TELEVISION MAINTENANCE, ELECTRIC FAN MAINTENANCE, REFRIGERATOR MAINTENANCE, AIR CONDITIONER MAINTENANCE, SOFA MAINTENANCE, BED MAINTENANCE, CABINET MAINTENANCE, DOOR MAINTENANCE) regardless of capitalization
+
+SPECIALIZATION:
+(PLUMBING, PLUMBER, ELECTRICAL, ELECTRICIAN, APPLIANCE MAINTENANCE, FURNITURE MAINTENANCE, HOUSEKEEPING, HOUSE KEEPING) regardless of the capitalization
+
+GPE: Caloocan, Las Piñas, Makati, Malabon, Mandaluyong, Manila, Marikina, Muntinlupa, Navotas, Parañaque, Pasay,  Pasig,  Pateros,  Quezon City, San Juan , Taguig , Valenzuela

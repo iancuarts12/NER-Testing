@@ -1,174 +1,174 @@
 Plumbing	SPECIALIZATION
 Toilet Maintenance	SERVICE
-Toilet Installation	SKILLS
-Toilet Repair	SKILLS
-Leak Fixing	SKILLS
-Toilet Unclogging	SKILLS
-Flushing System Repair	SKILLS
-Toilet Replacement	SKILLS
+Toilet Installation	SKILL
+Toilet Repair	SKILL
+Leak Fixing	SKILL
+Toilet Unclogging	SKILL
+Flushing System Repair	SKILL
+Toilet Replacement	SKILL
 
 Sink and Faucet Maintenance	SERVICE
-Faucet Installation	SKILLS
-Faucet Repair	SKILLS
-Sink Installation 	SKILLS
-Sink Repair	SKILLS
-Leak Fixing	SKILLS
-Faucet Replacement	SKILLS
-Sink Replacement	SKILLS
+Faucet Installation	SKILL
+Faucet Repair	SKILL
+Sink Installation 	SKILL
+Sink Repair	SKILL
+Leak Fixing	SKILL
+Faucet Replacement	SKILL
+Sink Replacement	SKILL
 
 Drain Unclogging	SERVICE
-Drain Cleaning	SKILLS
-Drain Snaking	SKILLS
-Hydro Jetting	SKILLS
-Clog Removal	SKILLS
-Pipe Inspection	SKILLS
+Drain Cleaning	SKILL
+Drain Snaking	SKILL
+Hydro Jetting	SKILL
+Clog Removal	SKILL
+Pipe Inspection	SKILL
 
 Shower Maintenance 	SERVICE
-Showerhead Installation	SKILLS
-Showerhead Repair	SKILLS
-Leak Fixing	SKILLS
-Valve Replacement	SKILLS
-Shower pipe repair	SKILLS
+Showerhead Installation	SKILL
+Showerhead Repair	SKILL
+Leak Fixing	SKILL
+Valve Replacement	SKILL
+Shower pipe repair	SKILL
 
 Bathtub Maintenance	SERVICE
-Bathtub Installation	SKILLS
-Bathtub Repair	SKILLS
-Leak Fixing	SKILLS
-Drain Repair	SKILLS
-Fixture Replacement	SKILLS
-Caulking and Sealing	SKILLS
+Bathtub Installation	SKILL
+Bathtub Repair	SKILL
+Leak Fixing	SKILL
+Drain Repair	SKILL
+Fixture Replacement	SKILL
+Caulking and Sealing	SKILL
 
 Pipe Repair	SERVICE
-Leak Detection	SKILLS
-Pipe Cutting	SKILLS
-Pipe Fitting	SKILLS
-Pipe Replacement	SKILLS
-Pipe Welding	SKILLS
-Joint Sealing	SKILLS
+Leak Detection	SKILL
+Pipe Cutting	SKILL
+Pipe Fitting	SKILL
+Pipe Replacement	SKILL
+Pipe Welding	SKILL
+Joint Sealing	SKILL
 
 Water Line Maintenance	SERVICE
-Water Line Installation	SKILLS
-Pipe Fitting	SKILLS
-Pipe Connection 	SKILLS
-Water Line Repair	SKILLS
-Pressure Testing	SKILLS
+Water Line Installation	SKILL
+Pipe Fitting	SKILL
+Pipe Connection 	SKILL
+Water Line Repair	SKILL
+Pressure Testing	SKILL
 
 Water Heater Maintenance	SERVICE
-Sediment Flushing	SKILLS
-Thermostat Adjustment	SKILLS
+Sediment Flushing	SKILL
+Thermostat Adjustment	SKILL
 
 
 Electrical	SPECIALIZATION
 Lighting Maintenance	SERVICE
-Incandescent Light Installation	SKILLS
-Fluorescent Light Installation	SKILLS
-LED Light Installation	SKILLS
-Bulb Replacement	SKILLS
-Light Fixture Installment	SKILLS
+Incandescent Light Installation	SKILL
+Fluorescent Light Installation	SKILL
+LED Light Installation	SKILL
+Bulb Replacement	SKILL
+Light Fixture Installment	SKILL
 
 Electrical Wiring and Rewiring	SERVICE
-Wire Installation	SKILLS
-Conduit Installation 	SKILLS
-Electrical Insulation	SKILLS
-Circuit Connection	SKILLS
+Wire Installation	SKILL
+Conduit Installation 	SKILL
+Electrical Insulation	SKILL
+Circuit Connection	SKILL
 
 Electrical Maintenance	SERVICE
 
 Socket Maintenance	SERVICE
-Socket Installation	SKILLS
-Socket Replacement	SKILLS
-Socket Tester	SKILLS
-Childproof Outlet Installation	SKILLS
-Copper Sweating	SKILLS
+Socket Installation	SKILL
+Socket Replacement	SKILL
+Socket Tester	SKILL
+Childproof Outlet Installation	SKILL
+Copper Sweating	SKILL
 
 Appliance Maintenance	SPECIALIZATION
 Washing Machine Maintenance 	SERVICE
-Washing Machine Repair	SKILLS
-Belt Replacement	SKILLS
-Leak Tracking	SKILLS
-Drum Cleaning	SKILLS
-Hose Replacement	SKILLS
+Washing Machine Repair	SKILL
+Belt Replacement	SKILL
+Leak Tracking	SKILL
+Drum Cleaning	SKILL
+Hose Replacement	SKILL
 
 Television Maintenance	SERVICE
-Screen Replacement	SKILLS
-Screen Repair	SKILLS
-Remote Sensor Repair	SKILLS
-Power Supply Board Repair	SKILLS
-Backlight Replacement	SKILLS
-Backlight Repair	SKILLS
+Screen Replacement	SKILL
+Screen Repair	SKILL
+Remote Sensor Repair	SKILL
+Power Supply Board Repair	SKILL
+Backlight Replacement	SKILL
+Backlight Repair	SKILL
 
 Electric Fan Maintenance	SERVICE
-Motor Cleaning 	SKILLS
-Motor Lubrication	SKILLS
-Blade Replacement 	SKILLS
-Oscillation Mechanism Repair	SKILLS
-Speed Control Repair	SKILLS
-Bearing Replacement	SKILLS
+Motor Cleaning 	SKILL
+Motor Lubrication	SKILL
+Blade Replacement 	SKILL
+Oscillation Mechanism Repair	SKILL
+Speed Control Repair	SKILL
+Bearing Replacement	SKILL
 
 Refrigerator Maintenance	SERVICE	
-Condenser Coil Cleaning	SKILLS
-Defrost System Maintenance	SKILLS
-Thermostat Control Check	SKILLS
-Ice Maker Repair	SKILLS
+Condenser Coil Cleaning	SKILL
+Defrost System Maintenance	SKILL
+Thermostat Control Check	SKILL
+Ice Maker Repair	SKILL
 
 Air Conditioner Maintenance	SERVICE
-Air Conditioner Repair	SKILLS
-Air Conditioner Installation	SKILLS
-Coil Cleaning	SKILLS
-Filter Cleaning	SKILLS
-System Tune-up	SKILLS
+Air Conditioner Repair	SKILL
+Air Conditioner Installation	SKILL
+Coil Cleaning	SKILL
+Filter Cleaning	SKILL
+System Tune-up	SKILL
 
 Furniture Maintenance	SPECIALIZATION
 Sofa Maintenance	SERVICE
-Cushion Repair	SKILLS
-Frame Reinforcement	SKILLS
-Upholstery Cleaning 	SKILLS
-Spring Replacement	SKILLS
-Cushion Replacement	SKILLS
+Cushion Repair	SKILL
+Frame Reinforcement	SKILL
+Upholstery Cleaning 	SKILL
+Spring Replacement	SKILL
+Cushion Replacement	SKILL
 
 Bed Maintenance	SERVICE
-Frame Tightening	SKILLS
-Slat Replacement	SKILLS
-Mattress Rotation	SKILLS
-Headboard Repair 	SKILLS
+Frame Tightening	SKILL
+Slat Replacement	SKILL
+Mattress Rotation	SKILL
+Headboard Repair 	SKILL
 
 Cabinet Maintenance	SERVICE
-Lock Replacement	SKILLS
-Handle Replacement	SKILLS
-Cabinet Refacing	SKILLS
-Cabinet Repair	SKILLS
+Lock Replacement	SKILL
+Handle Replacement	SKILL
+Cabinet Refacing	SKILL
+Cabinet Repair	SKILL
 
 Door Maintenance	SERVICE
-Hinge Replacement	SKILLS
-Door Alignment	SKILLS
-Door Repair	SKILLS
-Weather Stripping Installation	SKILLS
-Sliding Track Repair	SKILLS
-Roller Repair	SKILLS
-Scratch Repair	SKILLS
-Dent Repair	SKILLS
-Automatic Door Mechanism	SKILLS
+Hinge Replacement	SKILL
+Door Alignment	SKILL
+Door Repair	SKILL
+Weather Stripping Installation	SKILL
+Sliding Track Repair	SKILL
+Roller Repair	SKILL
+Scratch Repair	SKILL
+Dent Repair	SKILL
+Automatic Door Mechanism	SKILL
 
 House Keeping	SPECIALIZATION
 General Cleaning	SERVICE
-Sweeping Floors	SKILLS
-Mopping Floors	SKILLS
-Surface Wiping	SKILLS
-Vacuuming Carpet	SKILLS
-Organizing 	SKILLS
-Decluttering	SKILLS
+Sweeping Floors	SKILL
+Mopping Floors	SKILL
+Surface Wiping	SKILL
+Vacuuming Carpet	SKILL
+Organizing 	SKILL
+Decluttering	SKILL
 
 Deep Cleaning	SERVICE
-Tile Scrubbing	SKILLS
-Steam Cleaning 	SKILLS
-Stain Removal 	SKILLS
-Upholstery Deep Cleaning	SKILLS
-Mattress Sanitizing	SKILLS
+Tile Scrubbing	SKILL
+Steam Cleaning 	SKILL
+Stain Removal 	SKILL
+Upholstery Deep Cleaning	SKILL
+Mattress Sanitizing	SKILL
 
 Laundry	SERVICE
-Clothes Sorting	SKILLS
-Hand Washing	SKILLS
-Hand Washing Delicates	SKILLS
-Ironing	SKILLS
+Clothes Sorting	SKILL
+Hand Washing	SKILL
+Hand Washing Delicates	SKILL
+Ironing	SKILL
 
 

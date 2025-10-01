@@ -50,7 +50,7 @@ Showerhead Repair: showerhead repair, showerhead repairs, repairing showerhead, 
 
 Valve Replacement: valve replacement, valve replacements, replacing valve, replacing valves, replacing of valve, replacing of valves, replacement of valve, replacement of valves, replaced a valve, replaced a valves, replaced valve, replaced valves, shower pipe repair, shower pipe repairs, repairing shower pipe, repairing shower pipes, repairing of shower pipe, repairing of shower pipes, repaired a shower pipe, repaired a shower pipes, repaired shower pipe, repaired shower pipes
 
-Shower Pipe Repair: shower pipe repair, shower pipe repairs, repairing shower pipe, repairing shower pipes, repairing of shower pipe, repairing of shower pipes, repaired a shower pipe, repaired a shower pipes, repaired shower pipe, repaired shower pipes
+	
 
 ************************************************************************
 
@@ -136,7 +136,7 @@ SERVICE - Washing Machine Maintenance:
 
 Washing Machine Repair: washing machine repair, washing machine repairs, repairing washing machine, repairing washing machines, repaired washing machines, repaired a washing machine, repaired a washing machines, repairing washing machines, repairing of washing machine, repairing of washing machines
 
-Belt Replacement belt replacement, belt replacements, replacement of belt, replacement of belts, replacement of washing machine belt, replacement of washing machine belts, replacing washing machine belt, replacing washing machine belts, replacing of washing machine belt, replacing of washing machine belts, replacing belt, replacing belts, replacing of belt, replacing of belts, replaced a washing machine belt, replaced a washing machine belts, replaced washing machine belt, replaced washing machine belts
+Belt Replacement: belt replacement, belt replacements, replacement of belt, replacement of belts, replacement of washing machine belt, replacement of washing machine belts, replacing washing machine belt, replacing washing machine belts, replacing of washing machine belt, replacing of washing machine belts, replacing belt, replacing belts, replacing of belt, replacing of belts, replaced a washing machine belt, replaced a washing machine belts, replaced washing machine belt, replaced washing machine belts
 
 Drum Cleaning: drum cleaning, cleaning drum, cleaning drums, cleaned drum, cleaned drums, cleaned washing machine drum, cleaned washing machine drums, cleaned a washing machine drum, cleaned a washing machine drums, washing machine drum cleaning, cleaning of washing machine drum, cleaning of washing machine drums, cleaning of drum, cleaning of drums, cleaned a drum, cleaned a drums
 
